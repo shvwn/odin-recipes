@@ -1,0 +1,1 @@
+This project is my ver first project built since I've started to learn how to code. I will have demonstrated how to set up a basic site consisting of recipes by utilizing HTML skills.
